@@ -1,0 +1,10 @@
+scikit-learn
+scipy
+opencv-python
+bs4
+requests
+lmdb
+tensorboard
+tqdm
+rich
+easydict
